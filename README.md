@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/ivisconfessor">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joselio105&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselio105&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%" height="170em" src="https://github-readme-stats.vercel.app/api?username=joselio105&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselio105&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!--
